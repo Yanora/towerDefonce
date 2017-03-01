@@ -10,11 +10,11 @@ public class DefaiteScript : MonoBehaviour {
     {
         if (GUI.Button(new Rect(100, 200, 200, 100), "RePlay"))
         {
-            //Application.LoadLevel("boules_qui_roulent");
+            //UnityEngine.SceneManagement.SceneManager.LoadScene("boules_qui_roulent");
         }
         if (GUI.Button(new Rect(100, 400, 200, 100), "Back To the Menu"))
         {
-            Application.LoadLevel("Menu");
+            UnityEngine.SceneManagement.SceneManager.LoadScene("Menu");
         }
         if (GUI.Button(new Rect(100, 600, 200, 100), "Quit"))
         {
