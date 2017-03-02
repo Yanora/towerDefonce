@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9b13ee011b536c64a9a83afc628df4c8
+timeCreated: 1488453036
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Defiler
+  fontNames:
+  - The Defiler
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
