@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "towerDefonce", "Assembly-CSharp.csproj", "{7E630DE5-FDEB-B00F-0F3D-ADDAEAFF731A}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "towerDefonce", "towerDefonce.csproj", "{138D66BC-8A5E-40FC-EC3E-621064379F80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7E630DE5-FDEB-B00F-0F3D-ADDAEAFF731A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7E630DE5-FDEB-B00F-0F3D-ADDAEAFF731A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7E630DE5-FDEB-B00F-0F3D-ADDAEAFF731A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7E630DE5-FDEB-B00F-0F3D-ADDAEAFF731A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{138D66BC-8A5E-40FC-EC3E-621064379F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138D66BC-8A5E-40FC-EC3E-621064379F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138D66BC-8A5E-40FC-EC3E-621064379F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138D66BC-8A5E-40FC-EC3E-621064379F80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
