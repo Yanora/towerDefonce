@@ -9,6 +9,7 @@ public class VictoireScript : MonoBehaviour {
     {
         if (GUI.Button(new Rect(100, 200, 200, 100), "Next Level"))
         {
+<<<<<<< HEAD
             //UnityEngine.SceneManagement.SceneManager.LoadScene("boules_qui_roulent");
         }
         if (GUI.Button(new Rect(100, 400, 200, 100), "Replay"))
@@ -18,6 +19,17 @@ public class VictoireScript : MonoBehaviour {
         if (GUI.Button(new Rect(100, 600, 200, 100), "Back To the Menu"))
         {
             UnityEngine.SceneManagement.SceneManager.LoadScene("Menu");
+=======
+                Application.LoadLevel("GameScene");
+        }
+        if (GUI.Button(new Rect(100, 400, 200, 100), "Replay"))
+        {
+                Application.LoadLevel("GameScene");
+        }
+        if (GUI.Button(new Rect(100, 600, 200, 100), "Back To the Menu"))
+        {
+            Application.LoadLevel("Menu");
+>>>>>>> master
         }
         if (GUI.Button(new Rect(100, 800, 200, 100), "Quit"))
         {
